@@ -1,2 +1,4 @@
 # Vex-Pid-Example
-Simple PID controller thrown together to demonstrate one for vex robotics
+Quick 1D turning PID controller 
+
+Zero ki and kd, tune kp, and then repeat for ki and kd
