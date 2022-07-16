@@ -8,7 +8,7 @@ void turn(double theta, bool isPossessingItem){
    double kd = 0.9; //derivative constant
 
 
-  if(isPossessing){ //center of mass impacted by certain game elements, retuning constants accordingly
+  if(isPossessingItem){ //center of mass impacted by certain game elements, retuning constants accordingly
     kp = 1.0;
     ki = 0.00002;
     kd = 0.9;
